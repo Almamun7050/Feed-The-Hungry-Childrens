@@ -236,13 +236,13 @@
 }
 .subscribe-box{
     font: 700;
-    width: 100px;
+    width: 150px;
     margin-left: -8px;
     height: 40px;
     border-radius: 5px;
     font-size: 20px;
     color: white;
-    background-color: Red;
+    background-color: rgb(253, 61, 28);
     text-align: center;
 }
 .update-form{
@@ -256,4 +256,21 @@
     margin-bottom: 5%;
 
   
+}
+.footer-heading{
+  color: rgb(253, 23, 73);
+  padding-top: 60px;
+}
+.footer-sub-heading{
+    color: rgb(142, 157, 170);
+    font-size: 20px;
+}
+.footer-section{
+    text-align: center;
+    background-color: rgb(19, 15, 15);
+    
+    padding-bottom: 30px;
+   
+   
+ 
 }
