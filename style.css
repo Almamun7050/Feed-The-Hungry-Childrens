@@ -168,3 +168,45 @@
     gap: 1rem;
     padding-left: 6rem;
 }
+.extra-bonus-headline{
+    
+    padding-top: 100px;
+    padding-left: 10px;
+}
+.extra-bonus-subline{
+    color: rgb(104, 102, 102);
+    
+    font-size: 22px;
+    padding-left: 10px;
+
+}
+.contriute-button{
+    text-decoration: none;
+    color: #fff;
+    background-color: tomato;
+
+    
+}
+.extra-bonus-point{
+    display: flex;
+    
+}
+.extra-bonus-point div{
+   width: 50%;
+}
+.extra-point{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    padding-top: 20px;
+}
+.donating-button{
+    width: fit-content;
+    margin-top: 20px;
+}
+.bonus-pic img{
+  width: 100%;
+  margin-top: 130px;
+    
+   
+}    
