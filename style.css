@@ -107,3 +107,64 @@
     background-color: rgb(252, 66, 33);
     padding: 15px;   
 }
+.top-heading-paragraph{
+    text-align: center;
+    padding: 50px;
+}
+.top-sub-headig-paragraph{
+    color: rgb(104, 102, 102);
+    text-align: center;
+    font-size: 16px;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+   
+}
+.box1 {
+    width: 350px;
+    height: 600px;
+    background-color: rgba(70, 189, 159, 0.918);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+
+}
+
+.box1 img {
+    width: 100px;
+
+}
+.shelter-box2 {
+    width: 350px;
+    height: 600px;
+    background-color: rgb(253, 221, 226);
+    text-align: center;
+    box-shadow: 8px 8px 16px color gray;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.shelter-box2 img{
+    width: 100px;
+
+}
+.education-box3 {
+    width: 350px;
+    height: 600px;
+    background-color: rgb(231, 176, 185);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.donate-box{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    padding-left: 6rem;
+}
